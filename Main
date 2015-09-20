@@ -1,5 +1,9 @@
+def main(Configuration_Path): 
 import os.path
 if os.path.exists(configParser)==false
 for files in modules:
   configParser.write(import file as IEP-Science)
-print("Les modules scientifiques sont prêt à utilisés.")
+
+if Configuration_Path and :
+  print("Les modules scientifiques sont prêt à utilisés.")
+
