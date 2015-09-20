@@ -4,6 +4,6 @@ if os.path.exists(configParser)==false
 for files in modules:
   configParser.write(import file as IEP-Science)
 
-if Configuration_Path and :
+if Configuration_Path and installation:
   print("Les modules scientifiques sont prêt à utilisés.")
 
