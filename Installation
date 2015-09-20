@@ -3,3 +3,4 @@ def installation ():
     ipython profile create importation
     if os.path.isfile(os.environ['PYTHONSTARTUP']):
         execfile(os.environ['PYTHONSTARTUP'])
+        return true
