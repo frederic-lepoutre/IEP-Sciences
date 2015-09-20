@@ -1,0 +1,5 @@
+#Importe Automatiquement les modules au démarge de Ipython
+ipython profile create importation
+
+if os.path.isfile(os.environ['PYTHONSTARTUP']):
+    execfile(os.environ['PYTHONSTARTUP'])
