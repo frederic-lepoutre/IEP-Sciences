@@ -1,5 +1,8 @@
 def main(Configuration_Path): 
 import os.path
+import sys
+name = 'iep-sciences'
+description = 'installation simplifié de modules scientifiques additionels pour IEP'
 if os.path.exists(configParser)==false
 for files in modules:
   configParser.write(import file as IEP-Science)
