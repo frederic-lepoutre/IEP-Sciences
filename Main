@@ -10,3 +10,18 @@ for files in modules:
 if Configuration_Path=true and installation=true:
   print("Les modules scientifiques sont prêt à utilisés.")
 
+def main(Configuration_Path): 
+import os.path
+import sys
+name = 'iep-sciences'
+description = 'installation simplifié de modules scientifiques additionels pour IEP'
+if os.path.exists(configParser)==false:
+for files in modules:
+  configParser.write(import file as IEP-Science)
+if (names(readRegistry("Software\\Microsoft\\Windows\\IEP", + "HCU")) dirname([grep("IEP\\.exe")]) exist):
+  if Configuration_Path=true and installation=true:
+  print("Les modules scientifiques sont prêt à utilisés.")
+  else:
+    print("Il semble que les modules scientifiques n'aient pas pu être installés. Veuillez vérifiez que I.E.P ne soit pas installé sur un autre disque ou sur un disque distant"
+else: 
+  print("I.E.P ou Pyzo n'est pas installé sur cet ordinateur. Veuillez installer une version en cliquant sur l'un des deux liens suivant : http://www.iep-project.org/downloads.html ou http://www.pyzo.org/downloads.html"
